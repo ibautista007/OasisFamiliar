@@ -4,4 +4,7 @@
     <string name="btnMenu">Menu</string>
     <string name="btnMesas">Ver Mesas</string>
     <string name="oasis">Imagen Logo</string>
+    <string name="btnClear">Limpiar</string>
+    <string name="txtName">Ingrese su usuario</string>
+    <string name="txtpassword">Ingrese Contrasena</string>
 </resources>
