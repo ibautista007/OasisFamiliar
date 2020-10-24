@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Oasis Familiar</string>
+    <string name="btnLogin">Ingresar</string>
+    <string name="btnMenu">Menu</string>
+    <string name="btnMesas">Ver Mesas</string>
+    <string name="oasis">Imagen Logo</string>
 </resources>
